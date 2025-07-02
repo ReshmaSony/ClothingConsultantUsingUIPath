@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W9MAEo3liEmnikVAKSnpSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="07202d2d-2ecc-4ad9-b5d7-1545d92428b9" CvElementArea="517, 533, 880, 78" CvType="InputBox" DesignTimeRectangle="593, 538, 666, 69" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' aaname='Search' /&gt;" Guid="9e9bdecc-807c-4f3f-8fae-d122c292c93d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="07ebe4440bee6455d23328aedfa3a396.png" xmlns="">0Zhe0wJhUfE-Vyy-KnHv76w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

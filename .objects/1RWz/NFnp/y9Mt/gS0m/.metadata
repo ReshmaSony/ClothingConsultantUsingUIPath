@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Weather",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gS0mNfwmcEiHPYKA5HieXg",
+  "Reference": "WSipFzpHgkKol8vDmm85FA/gS0mNfwmcEiHPYKA5HieXg",
+  "ParentRef": "WSipFzpHgkKol8vDmm85FA/y9MtKRzS5Ueo0TG1mxTaIA",
+  "Created": "2025-06-07T14:35:50.7634538Z",
+  "Updated": "2025-06-07T14:35:50.7634538Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

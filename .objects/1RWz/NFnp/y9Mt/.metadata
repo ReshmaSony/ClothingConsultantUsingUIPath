@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Use Google Browser",
+  "Type": "Screen",
+  "Id": "y9MtKRzS5Ueo0TG1mxTaIA",
+  "Reference": "WSipFzpHgkKol8vDmm85FA/y9MtKRzS5Ueo0TG1mxTaIA",
+  "ParentRef": "WSipFzpHgkKol8vDmm85FA/NFnp-6TLqU2fF6MtGLvoYQ",
+  "Created": "2025-06-07T12:52:57.3275531Z",
+  "Updated": "2025-06-07T12:52:57.3275531Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

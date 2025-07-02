@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l41WlwVP3ECk9vLnqMxeSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="92e75678-9bd1-4b27-bee6-addad965f97e" CvType="AnyWordGroup" DesignTimeRectangle="252, 524, 86, 91" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="19623414-8dcc-4b14-aa6a-7ede9feb3360" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*weather in fahrenheit - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6671087df7c93485cfe0c9bd96e67d0.png" xmlns="">0Kg6gpGJP2ke8MYgCuIVuaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
